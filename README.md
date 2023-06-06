@@ -1,5 +1,8 @@
 # NAO Robot Waddle Gait
 
+## Video Demonstration
+https://github.com/myavonbehren/NAOWaddleGait/assets/105401477/1959e495-7246-4783-a1f7-e5c6841a6cfe
+
 ## Introduction
 During the Spring Quarter of my second year, I worked with [Aldebaran Robotics’ NAO humanoid robot](https://www.aldebaran.com/en/nao) to explore its walking gait. Using [Aldebaran's Python Software Development Kit](http://doc.aldebaran.com/2-5/dev/python/install_guide.html) (SDK), NAOqi, I was able to create Python modules to control NAO’s walking gait. Before installing the Python SDK, I downloaded Python 2.7 - 32 bits, the only compatible version allowing NAOqi to run correctly. 
 
