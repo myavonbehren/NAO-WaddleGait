@@ -1,4 +1,5 @@
 # NAO Robot Waddle Gait
+Custom gait implementation for the NAO robot that creates a penguin-inspired waddle walk. The project uses Python and NAOqi's Motion API to modify torso rotation, step height, and walking frequency, resulting in characteristic side-to-side movement that mimics natural waddling locomotion.
 
 ## Video Demonstration
 https://github.com/myavonbehren/NAOWaddleGait/assets/105401477/1959e495-7246-4783-a1f7-e5c6841a6cfe
